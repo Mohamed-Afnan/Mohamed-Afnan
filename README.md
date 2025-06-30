@@ -6,7 +6,7 @@
 ### 🧠 About Me
 - 💻 I love crafting games and websites that bring ideas to life
 - 🎨 Design is my playground — from UI/UX to digital art
-- 🌱 Currently learning **React**, **MERN Stack**, and **Next.js**
+- 🌱 Currently learning **React**
 - 🔭 Dreaming of launching my own game someday!
 
 ---
